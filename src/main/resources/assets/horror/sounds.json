@@ -1,0 +1,5 @@
+{
+  "whisper": { "sounds": ["horror:whisper"] },
+  "heartbeat": { "sounds": ["horror:heartbeat"] },
+  "stinger": { "sounds": ["horror:stinger"] }
+}
