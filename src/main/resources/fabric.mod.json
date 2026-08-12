@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "id": "horror",
+  "version": "${version}",
+  "name": "Horror",
+  "description": "Something is watching.",
+  "authors": ["V24"],
+  "environment": "client",
+  "entrypoints": {
+    "client": ["com.v24.horror.HorrorClient"]
+  },
+  "depends": {
+    "fabricloader": ">=0.18.1",
+    "minecraft": "1.21.11",
+    "fabric-api": ">=0.141.4"
+  }
+}
