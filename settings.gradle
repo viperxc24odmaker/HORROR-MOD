@@ -1,0 +1,3 @@
+pluginManagement { repositories { maven { url = uri("https://maven.fabricmc.net/") }; gradlePluginPortal() } }
+dependencyResolutionManagement { repositories { maven { url = uri("https://maven.fabricmc.net/") }; mavenCentral() } }
+rootProject.name = "horror-mod"
