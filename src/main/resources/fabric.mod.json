@@ -5,8 +5,9 @@
   "name": "Horror",
   "description": "Something is watching.",
   "authors": ["V24"],
-  "environment": "client",
+  "environment": "*",
   "entrypoints": {
+    "main": ["com.v24.horror.HorrorMod"],
     "client": ["com.v24.horror.HorrorClient"]
   },
   "depends": {
